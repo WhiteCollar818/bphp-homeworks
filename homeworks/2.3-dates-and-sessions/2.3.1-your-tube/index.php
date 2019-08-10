@@ -105,4 +105,4 @@ if (shouldBeIncremented()){
 
 </body>
 </html>
-© 2019 GitHub, Inc.
+
